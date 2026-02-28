@@ -2,3 +2,4 @@
 .venv/
 .venv2/
 The-Ultimate-Python-Course-main
+__pycache__
